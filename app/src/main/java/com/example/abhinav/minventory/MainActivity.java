@@ -1,4 +1,4 @@
-    package com.example.abhinav.minventory;
+package com.example.abhinav.minventory;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
